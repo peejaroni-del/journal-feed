@@ -14,8 +14,9 @@ import requests
 
 # ---- EDIT THIS ------------------------------------------------------------
 JOURNALS = {
+    "JACS": "1520-5126",
+    "Nano Letters": "1530-6992",
     "ACS Nano": "1936-086X",
-    # "Journal name": "XXXX-XXXX",
 }
 CONTACT_EMAIL = ""      # optional; any address (a throwaway is fine) or leave empty
 DAYS_BACK = 14          # how far back the feed reaches
